@@ -7,3 +7,4 @@ console.log('Add git revert');
 // this is the bug fix 
 
 console.log('Add git revert');
+console.log(':onka');
