@@ -8,3 +8,11 @@ console.log('Add git revert');
 
 console.log('Add git revert');
 console.log(':onka');
+console.log('1');
+console.log('2');
+console.log('3');
+console.log('4');
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
